@@ -1,4 +1,4 @@
-# Seattle Airbnb Analysis
+# Analysis on Seattle Airbnb market
 
 ## Table of Contents
 1. Libraries
@@ -32,17 +32,18 @@ The goal of this project is to understand the airbnb market in Seattle, which ca
  ## File Description
 The [Data](https://github.com/Jiahuili858/Seattle-Airbnb-Analysis/tree/master/Data) folder contains the dataset. It includes three csv files:
 - Listings.csv: including full descriptions and average review score
-- Reviews.csv: including unique id for each reviewer and detailed comments
+- Reviews.csv: including unique id for each reviewer and detailed comments 
 - Calendar.csv: including listing id and the price and availability for that day
 
 
 ## Summary of Results
-- July and August are the busiest months in 2016. 
-- The most two common types of property in Seattle are House and Apartment, which account for 45.4% and 44.7%, respectively.
-- The listings are av
-- On average, a property is available in the market for 245 days in a year (around 67% of the time). From observation, we can see an upward trend of percentage of listings available over time. 
+- The summer period, from June to August, shows a significant increase in average pricing. Prices in July on average increase   10.25% than the overall average price and the prices in August increases 9.21%. Prices on Friday and Saturday are more         expensivve.
+- The property types House and Apartment dominate the market in Seattle, which account for 45.4% and 44.7%. The listings price differs a lot by neighborhood. We need to spend $405 for a house in an expensive neighborhood and we can also just pay $76 to live a different area. 
+- On average, a property is available in the market for 245 days in a year (around 67% of the time). From observation, we can see an upward trend of percentage of listings available over time. It is highly possible the increased average price in summer is due to the relatively limited available listings.
 - 
 
 
 ## Acknowledgement
 Data are provided by Kaggle: [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/seattle)
+
+

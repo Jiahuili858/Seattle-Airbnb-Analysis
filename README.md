@@ -31,7 +31,10 @@ The goal of this project is to understand the airbnb market in Seattle, which ca
 
  
  ## File Description
-
+The Data folder contains the dataset from [Kaggle](https://www.kaggle.com/airbnb/seattle). It includes three csv files:
+- Listings.csv: including listings information and review score
+- Reviews.csv: including unique id for each reviewer and detailed comments
+- Calendar.csv: including listing id, date, availability and price
 
 
 ## Summary of Results

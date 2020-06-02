@@ -31,3 +31,10 @@ The goal of this project is to understand the airbnb market in Seattle, which ca
 
  
  ## File Description
+
+
+
+## Summary of Results
+
+
+## Acknowledgement

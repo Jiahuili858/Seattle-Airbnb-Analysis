@@ -2,8 +2,8 @@
 
 ### Table of Contents
 1. [Libraries](#Libraries)
-2. [Project Motivation] (#Project Motivation)
-3. [File Descriptions] (#file)
+2. [Project Motivation] (#Project-Motivation)
+3. [File Descriptions] (#File-Description)
 4. [Summary of Results] (#results)
 5. [Acknowledgements] (#ack)
 
@@ -26,3 +26,5 @@ The goal of this project is to understand the airbnb market in Seattle, which ca
   2. What's the common type of property in each neighborhood? How does the price differ from each other?
   3. On average how many days are the listings available? Is there any trend that exists?
   4. What are the key topics based on the reviews?
+  
+ ### File Description

@@ -20,7 +20,7 @@ Below are the libraries I have used in this project.
 - spacy
 - unidecode
 - re
-</a>
+
 
 <a name="project-motivation">
 ### Project Motivation
@@ -29,6 +29,6 @@ The goal of this project is to understand the airbnb market in Seattle, which ca
   2. What's the common type of property in each neighborhood? How does the price differ from each other?
   3. On average how many days are the listings available? Is there any trend that exists?
   4. What are the key topics based on the reviews?
- </a>
+
  
  ### File Description

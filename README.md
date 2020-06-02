@@ -1,11 +1,11 @@
 # Seattle Airbnb Analysis
 
 ### Table of Contents
-1. <span id=a> Libraries </span>(#lib)
-2. [Project Motivation ] (#project-motivation)
-3. [File Descriptions] (#File-Description)
-4. [Summary of Results] (#results)
-5. [Acknowledgements] (#ack)
+1. Libraries
+2. Project Motivation
+3. File Descriptions
+4. Summary of Results
+5. Acknowledgements
 
 
 ### Libraries

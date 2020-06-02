@@ -1,8 +1,8 @@
 # Seattle Airbnb Analysis
 
 ### Table of Contents
-1. [Libraries](#Libraries)
-2. [Project Motivation] (#Project-Motivation)
+1. [Libraries](#libraries)
+2. [Project Motivation] (#project-motivation)
 3. [File Descriptions] (#File-Description)
 4. [Summary of Results] (#results)
 5. [Acknowledgements] (#ack)

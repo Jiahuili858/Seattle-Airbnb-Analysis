@@ -7,8 +7,8 @@
 4. [Summary of Results] (#results)
 5. [Acknowledgements] (#ack)
 
-<a id="lib"></a>
-### Libraries
+
+### <span id="lib">Libraries</a>
 Below are the libraries I have used in this project.
 - pandas
 - numpy

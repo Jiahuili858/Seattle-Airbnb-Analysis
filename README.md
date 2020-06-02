@@ -7,7 +7,7 @@
 4. [Summary of Results] (#results)
 5. [Acknowledgements] (#ack)
 
-<a name="lib">
+<a id="lib"></a>
 ### Libraries
 Below are the libraries I have used in this project.
 - pandas
@@ -22,7 +22,7 @@ Below are the libraries I have used in this project.
 - re
 
 
-<a name="project-motivation">
+<a id="project-motivation"></a>
 ### Project Motivation
 The goal of this project is to understand the airbnb market in Seattle, which can help the travelers to make better decisions when they book accommodations. Here are the questions I am delving into:
   1. What are the busiest times to visit Seattle? By how much do prices increase?

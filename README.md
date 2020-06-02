@@ -30,7 +30,7 @@ The goal of this project is to understand the airbnb market in Seattle, which ca
 
  
  ## File Description
-The [Data](https://github.com/Jiahuili858/Seattle-Airbnb-Analysis/tree/master/Data) folder contains the dataset from [Kaggle](https://www.kaggle.com/airbnb/seattle). It includes three csv files:
+The [Data](https://github.com/Jiahuili858/Seattle-Airbnb-Analysis/tree/master/Data) folder contains the dataset. It includes three csv files:
 - Listings.csv: including full descriptions and average review score
 - Reviews.csv: including unique id for each reviewer and detailed comments
 - Calendar.csv: including listing id and the price and availability for that day
@@ -45,3 +45,4 @@ The [Data](https://github.com/Jiahuili858/Seattle-Airbnb-Analysis/tree/master/Da
 
 
 ## Acknowledgement
+Data are provided by Kaggle: https://www.kaggle.com/airbnb/seattle

@@ -1,11 +1,11 @@
 # Seattle Airbnb Analysis
 
 ### Table of Contents
-1. [Libraries](#Libraries)
-2. [Project Motivation] (#Project-Motivation)
-3. [File Descriptions] (#File-Description)
-4. [Summary of Results] (#results)
-5. [Acknowledgements] (#ack)
+1. [Libraries](###Libraries)
+2. [Project Motivation] (###Project-Motivation)
+3. [File Descriptions] (###File-Description)
+4. [Summary of Results] (###results)
+5. [Acknowledgements] (###ack)
 
 ### Libraries
 Below are the libraries I have used in this project.

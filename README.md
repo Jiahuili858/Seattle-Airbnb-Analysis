@@ -1,12 +1,13 @@
 # Seattle Airbnb Analysis
 
 ### Table of Contents
-1. [Libraries](#libraries)
+1. [Libraries](#lib)
 2. [Project Motivation] (#project-motivation)
 3. [File Descriptions] (#File-Description)
 4. [Summary of Results] (#results)
 5. [Acknowledgements] (#ack)
 
+<a name="lib"></a>
 ### Libraries
 Below are the libraries I have used in this project.
 - pandas
@@ -20,6 +21,7 @@ Below are the libraries I have used in this project.
 - unidecode
 - re
 
+<a name="project-motivation"></a>
 ### Project Motivation
 The goal of this project is to understand the airbnb market in Seattle, which can help the travelers to make better decisions when they book accommodations. Here are the questions I am delving into:
   1. What are the busiest times to visit Seattle? By how much do prices increase?

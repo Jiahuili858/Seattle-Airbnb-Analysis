@@ -38,7 +38,7 @@ The [Data](https://github.com/Jiahuili858/Seattle-Airbnb-Analysis/tree/master/Da
 
 ## Summary of Results
 - The summer period, from June to August, shows a significant increase in average pricing. Prices in July on average increase   10.25% than the overall average price and the prices in August increases 9.21%. Prices on Friday and Saturday are more         expensive.
-- The property types House and Apartment dominate the market in Seattle, which account for 45.4% and 44.7%. The listings price  are largely affected by neighborhood. We need to spend $405 for a house in an expensive neighborhood and we can also just pay $76 to live a different area. 
+- The property types House and Apartment dominate the market in Seattle, which account for 45.4% and 44.7%. The listings price  are largely affected by neighborhood. We need to spend $405 for a house in an expensive neighborhood, while we can just pay $76 to live a different area. 
 - On average, a property is available in the market for 245 days in a year (around 67% of the time). From observation, we can see an upward trend of percentage of listings available over time. It is highly possible the increased average price in summer is due to the relatively limited available listings.
 - 
 

@@ -45,4 +45,4 @@ The [Data](https://github.com/Jiahuili858/Seattle-Airbnb-Analysis/tree/master/Da
 
 
 ## Acknowledgement
-Data are provided by Kaggle: https://www.kaggle.com/airbnb/seattle
+Data are provided by Kaggle: [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/seattle)
